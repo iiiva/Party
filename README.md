@@ -1,4 +1,2 @@
 # Party
-rakiq
-vodka
-qdene
+
